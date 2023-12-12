@@ -6,8 +6,7 @@
 
 ## Replacing memory with calldata
 **Gas savings**
-
-    Using calldata is significantly cheaper than using memory. This is because calldata is a read-only data area that is stored on the blockchain itself, while memory is a temporary data area that exists only during the execution of a function.
+- Using calldata is significantly cheaper than using memory. This is because calldata is a read-only data area that is stored on the blockchain itself, while memory is a temporary data area that exists only during the execution of a function.
 ## Loading state variable to memory
 - **Faster Access**
   
