@@ -1,4 +1,4 @@
-# solidity-learn
+# Solidity-learn
 
 [optimization](./src/optimization/README.md)
 
@@ -6,10 +6,13 @@
 
 [code, application, hacks](./src/code/README.md)
 
-# try dApp
+# Try dApp
 **my [hello-world](https://github.com/troy-123/helloworld-dApp) dApp through Alchemy**
 
-# learn hardhat
+# Learn hardhat
 https://hardhat.org
 
-
+# Interview questions
+- https://in.indeed.com/career-advice/interviewing/blockchain-interview-questions
+- https://interviewprep.org/blockchain-developer-interview-questions
+- https://101blockchains.com/blockchain-interview-questions
