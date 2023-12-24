@@ -7,7 +7,7 @@ contract MyString {
         return string(abi.encodePacked(s1,s2));
     }
 
-    function getStr(string calldata s1, uint256 index) public pure returns(string memory){
+    function getStrAtIndex(string calldata s1, uint256 index) public pure returns(string memory){
         bytes memory s1InBytes = bytes(s1);
         require(index < s1InBytes.length, "index exceeds the length of s1");
 
@@ -17,7 +17,7 @@ contract MyString {
         return string(strInBytes);
     }
 
-    function replace(string memory s1, string memory c1, uint256 index) public pure returns(string memory){
+    function replaceStrAtIndex(string memory s1, string memory c1, uint256 index) public pure returns(string memory){
         bytes memory s1InBytes = bytes(s1);
         require(index < s1InBytes.length, "index exceeds the length of s1");
 

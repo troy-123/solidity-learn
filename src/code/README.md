@@ -1,21 +1,27 @@
-# basic problem-solving
-[operations on string](./MyString.sol)
-- **concat strings**
-- **get character at the given index**
-- **replace character at the given index**
+# basic code
+**[operations on string](./MyString.sol)**
+- concat strings
+- get character at the given index
+- replace character at the given index
 
 
 # learn solidity-by-example
-https://solidity-by-example.org
+
+**This my [solidity-by-example](https://solidity-by-example.org) study notes**
 
 ## applications
 [EtherWallet](./EtherWallet.sol)
+![Alt text](image.png)
 
 [MultiSigWallet](./MultiSigWallet.sol)
+![Alt text](image-1.png)
 
 [MerkleTree](./MerkleTree.sol)
+![Alt text](image-2.png)
+- construction ways: recursion or double loop
 
 [IterableMapping](./IterableMapping.sol)
+![Alt text](image-3.png)
 
 [ERC20](./ERC20.sol)
 
@@ -37,8 +43,8 @@ https://solidity-by-example.org
 [Source of Randomness](./Randomness.sol)
 
 
-# learn dApp
-[my hello-world dApp](https://github.com/troy-123/helloworld-dApp)
+# try my first dApp
+**[hello-world](https://github.com/troy-123/helloworld-dApp) dApp through Alchemy**
 
 # learn hardhat
 https://hardhat.org
