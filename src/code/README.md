@@ -43,10 +43,3 @@
 [Source of Randomness](./Randomness.sol)
 
 
-# try my first dApp
-**[hello-world](https://github.com/troy-123/helloworld-dApp) dApp through Alchemy**
-
-# learn hardhat
-https://hardhat.org
-
-
